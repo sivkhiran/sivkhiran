@@ -1,4 +1,5 @@
 <h1 align = "center">Hi there, I'm Khiran Kumar Chidambaram Sivaraman 👋</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivkhiran&label=Profile%20views&color=0e75b6&style=flat" alt="sivkhiran" /> </p>
 <h2>  About Me 💼🎒: </h2>
 
 Embarking on a data-driven journey, I am a passionate Data Scientist and Machine Learning enthusiast. I hold a Masters Degree in Data Science at [__University of Maryland, Baltimore County__](https://umbc.edu/). My expertise lies in unraveling complex datasets and deriving meaningful insights to drive strategic decision-making.
