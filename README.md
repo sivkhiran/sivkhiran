@@ -44,4 +44,11 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 
 &emsp;&emsp; __Quality Control Trainee/ Quality Test Engineer__ | [__HWASHIN Automotive India Private–Limited__](https://www.hwashin.co.kr/eng/group/india_summary.do?fcode=5) [*May 2018 - July 2018*]
 
+## 🖥 My Education 
+
+&emsp;&emsp; 🏫 [__University Of Maryland Baltimore County__](https://umbc.edu/) - *Masters in Data Science*
+
+&emsp;&emsp; 🏫 [__SRM Institue of Science and Technology__](https://www.srmist.edu.in/) - *B.Tech in Mechanical Engineering*
+
+
 
