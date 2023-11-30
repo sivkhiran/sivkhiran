@@ -72,4 +72,29 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 
 &emsp;&emsp;   [__R Programming__](https://github.com/sivkhiran/Certificates/blob/main/R%20Programming.jpeg)
 
+## 🖥 My Competencies
+
+&emsp;&emsp; 🦸 __Leadership Skills__
+
+&emsp;&emsp; 🦸 __Curiosity__
+
+&emsp;&emsp; 🦸 __Problem-solving Skills__
+
+&emsp;&emsp; 🦸 __Time Management__
+
+&emsp;&emsp; 🦸 __Communication Skills__
+
+&emsp;&emsp; 🦸 __Team Work__
+
+## 🖥 My Resume 
+
+&emsp;&emsp; 📄 [__Resume__](https://github.com/sivkhiran/Resume/blob/main/Khiran_Kumar_Resume.pdf)
+
+## 🖥 My Contact Information
+
+&emsp;&emsp; 📫 __Email:__ __sivkhiran3@gmail.com__
+
+&emsp;&emsp; 🖇 __LinkedIn:__ __https://www.linkedin.com/in/khiran-/__
+
+
 
