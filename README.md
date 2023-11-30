@@ -1,6 +1,6 @@
 <h1 align = "center">Hi there, I'm Khiran Kumar Chidambaram Sivaraman 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivkhiran&label=Profile%20views&color=0e75b6&style=flat" alt="sivkhiran" /> </p>
-![Profile Views](https://yhype.me/github/accounts/sivkhiran)
+
 
 <h2>  About Me 💼🎒: </h2>
 
@@ -99,5 +99,4 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 
 &emsp;&emsp; 🖇 __LinkedIn:__ __https://www.linkedin.com/in/khiran-/__
 
-
-
+![](https://hit.yhype.me/github/profile?user_id=64971850)
