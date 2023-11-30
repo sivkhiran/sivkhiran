@@ -24,4 +24,9 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 | :-:| :-:| 
 | [<img src = "https://github.com/sivkhiran/Images/blob/main/E%20commerce.png" width = 500 height = 300/>](https://github.com/sivkhiran/E-commerce-Churn-Analysis)| [<img src = "https://github.com/sivkhiran/Images/blob/main/Sentiment%20Analysis.jpg" width = 500 height = 300/>](https://github.com/sivkhiran/Sentiment-Analysis-)
 
+<h2 align = "center"> 🖥 My Data Annotation Projects</h2>
+
+| [ Customer Segmentation and Analysis](https://github.com/sivkhiran/Customer-Segmentation-and-Analysis)| 
+| :-:
+| [<img src = "https://github.com/sivkhiran/Images/blob/main/Customer-Segmentation.jpg" height = 300 width = 500/>](https://github.com/sivkhiran/Customer-Segmentation-and-Analysis)| 
 
