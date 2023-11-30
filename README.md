@@ -36,5 +36,12 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 | :-:| :-:| 
 | [<img src = "https://github.com/sivkhiran/Images/blob/main/Pizza.png" width = 500 height = 300/>](https://github.com/sivkhiran/Pizza-Ordering-system)| [<img src = "https://github.com/sivkhiran/Images/blob/main/Tobacco.jpeg" width = 500 height = 300/>](https://github.com/sivkhiran/Prevalance-of-Tobacco-usage-in-US-)
 
+## 🖥 My Work Experience 
+
+&emsp;&emsp;  __Data Analyst__| [__Vanguard__](https://investor.vanguard.com/corporate-portal) [*March 2023 - July 2023*]
+
+&emsp;&emsp;  __Graduate Teaching Assistant__ | [__University Of Maryland Baltimore County__](https://umbc.edu/) [*June 2022 - September 2022*]
+
+&emsp;&emsp; __Quality Control Trainee/ Quality Test Engineer__ | [__HWASHIN Automotive India Private–Limited__](https://www.hwashin.co.kr/eng/group/india_summary.do?fcode=5) [*May 2018 - July 2018*]
 
 
