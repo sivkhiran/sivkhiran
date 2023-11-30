@@ -16,7 +16,12 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 
 <h2 align = "center"> 🖥 My Machine Learning Projects </h2> 
 
-|  [Neural Network Analysis of Heat pipe using Hybrid Nano Fluids](https://github.com/sivkhiran/Neural-Network-Analysis-of-Heat-pipe-using-Hybrid-Nano-Fluids)| 🚙 [Chicago Taxi Usage Analysis](https://github.com/sivkhiran/Chicago-Taxi-analysis-using-MongoDB)|
+|  [Neural Network Analysis of Heat pipe using Hybrid Nano Fluids](https://github.com/sivkhiran/Neural-Network-Analysis-of-Heat-pipe-using-Hybrid-Nano-Fluids)|  [Chicago Taxi Usage Analysis](https://github.com/sivkhiran/Chicago-Taxi-analysis-using-MongoDB)|
 | :-:| :-:| 
 | [<img src = "https://github.com/sivkhiran/Images/blob/main/Neural-Networks.jpeg" width = 500 height = 300/>](https://github.com/sivkhiran/Neural-Network-Analysis-of-Heat-pipe-using-Hybrid-Nano-Fluids)| [<img src="https://github.com/sivkhiran/Images/blob/main/Chicago%20Taxi.jpg" width = 500 height = 300/>](https://github.com/sivkhiran/Chicago-Taxi-analysis-using-MongoDB)
+
+| [E-Commerce Churn Analysis](https://github.com/sivkhiran/E-commerce-Churn-Analysis)|  [ A Comparative Evaluation of Sentiment Analysis in the case of Covid-19 Tweets](https://github.com/sivkhiran/Sentiment-Analysis-)|
+| :-:| :-:| 
+| [<img src = "https://github.com/sivkhiran/Images/blob/main/E%20commerce.png" width = 500 height = 300/>](https://github.com/sivkhiran/E-commerce-Churn-Analysis)| [<img src = "https://github.com/sivkhiran/Images/blob/main/Sentiment%20Analysis.jpg" width = 500 height = 300/>](https://github.com/sivkhiran/Sentiment-Analysis-)
+
 
