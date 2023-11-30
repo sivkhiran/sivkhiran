@@ -1,5 +1,5 @@
 <h1 align = "center">Hi there, I'm Khiran Kumar Chidambaram Sivaraman 👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivkhiran&label=Profile%20views&color=0e75b6&style=flat" alt="sivkhiran" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sivkhiran&label=Profile%20views&color=0e75b6&style=flat" alt="sivkhiran" /> </p>
 
 
 <h2>  About Me 💼🎒: </h2>
