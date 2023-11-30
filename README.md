@@ -50,5 +50,20 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 
 &emsp;&emsp; 🏫 [__SRM Institue of Science and Technology__](https://www.srmist.edu.in/) - *B.Tech in Mechanical Engineering*
 
+## 🖥 My List of Certifications
+
+&emsp;&emsp;  [__Career Essentials in Data Analysis by Microsoft and LinkedIn__](https://github.com/sivkhiran/Certificates/blob/main/Data%20Analysis%20by%20Microsoft%20and%20LinkedIn.jpg)
+
+&emsp;&emsp;  [__Power BI Essential training__](https://github.com/sivkhiran/Certificates/blob/main/Power%20BI.jpg)
+
+&emsp;&emsp;   [__Learning Data Analytics Part2: Extending and Applying Core Knowledge__](https://github.com/sivkhiran/Certificates/blob/main/Learning%20Data%20Analytics%20Part%202%20Extending%20and%20Applying%20Core%20Knowledge.jpg)
+
+&emsp;&emsp;   [__Regression Models__](https://github.com/sivkhiran/Certificates/blob/main/Regression%20Models.jpeg)
+
+&emsp;&emsp;   [__Getting and Cleaning Data__](https://github.com/sivkhiran/Certificates/blob/main/Getting%20and%20Cleaning%20Data.jpeg)
+
+&emsp;&emsp;   [__Introduction to Probability and Data with R__](https://github.com/sivkhiran/Certificates/blob/main/Introduction%20to%20Probability%20and%20Data%20with%20R.jpeg)
+
+
 
 
