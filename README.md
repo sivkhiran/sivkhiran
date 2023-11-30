@@ -30,3 +30,11 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 | :-:
 | [<img src = "https://github.com/sivkhiran/Images/blob/main/Customer-Segmentation.jpg" height = 300 width = 500/>](https://github.com/sivkhiran/Customer-Segmentation-and-Analysis)| 
 
+<h2 align = "center"> 🖥 Other Projects</h2>
+
+| [Pizza Ordering System using Python(Data Structures and Algorithm)](https://github.com/sivkhiran/Pizza-Ordering-system)|  [ Prevalence of Tobacco Usage in United States from 1995 to 2010)](https://github.com/sivkhiran/Prevalance-of-Tobacco-usage-in-US-)|
+| :-:| :-:| 
+| [<img src = "https://github.com/sivkhiran/Images/blob/main/Pizza.png" width = 500 height = 300/>](https://github.com/sivkhiran/Pizza-Ordering-system)| [<img src = "https://github.com/sivkhiran/Images/blob/main/Tobacco.jpeg" width = 500 height = 300/>](https://github.com/sivkhiran/Prevalance-of-Tobacco-usage-in-US-)
+
+
+
