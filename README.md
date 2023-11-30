@@ -64,6 +64,12 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 
 &emsp;&emsp;   [__Introduction to Probability and Data with R__](https://github.com/sivkhiran/Certificates/blob/main/Introduction%20to%20Probability%20and%20Data%20with%20R.jpeg)
 
+&emsp;&emsp;   [__Data Analytics Dashboards vs. Data Stories__](https://github.com/sivkhiran/Certificates/blob/main/Data%20Analytics%20Dashboards%20vs.%20Data%20Stories.jpg)
 
+&emsp;&emsp;   [__Data Analytics Graph Analytics__](https://github.com/sivkhiran/Certificates/blob/main/Data%20Analytics%20Graph%20Analytics.jpg)
+
+&emsp;&emsp;   [__Learning Data Analytics 1 Foundations__](https://github.com/sivkhiran/Certificates/blob/main/Learning%20Data%20Analytics%201%20Foundations.jpg)
+
+&emsp;&emsp;   [__R Programming__](https://github.com/sivkhiran/Certificates/blob/main/R%20Programming.jpeg)
 
 
