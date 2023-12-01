@@ -98,6 +98,15 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 &emsp;&emsp; [<img src ="https://github.com/sivkhiran/Images/blob/main/a0459e6091289e3f0d1b074ccbecc68f-cover.jpg" width = 75 height = 100/>](https://doi.org/10.1080/01430750.2021.2014959 (2021)) 
 
 
+## 👯 I’m looking to collaborate on
+
+🕸  Data Science and Analytics projects, especially in the realms of machine learning, data visualization, and statistical analysis using Python or R."
+
+
+📚 Artificial Intelligence and Machine Learning cutting-edge projects, particularly those focused on natural language processing, computer vision, or AI ethics."
+
+🔍 Cybersecurity and Ethical Hacking projects, focusing on penetration testing, vulnerability assessments, and developing tools for network security."
+
 ## 🖥 My Contact Information
 
 &emsp;&emsp; 📫 __Email:__ __sivkhiran3@gmail.com__
