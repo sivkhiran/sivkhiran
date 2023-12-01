@@ -93,6 +93,13 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 
 &emsp;&emsp; 📄 [__Resume__](https://github.com/sivkhiran/Resume/blob/main/Khiran_Kumar_Resume.pdf)
 
+## 📄 My Publications
+
+&emsp;&emsp; [__International Journal of Ambient Energy__]
+
+&emsp;&emsp;&emsp;&emsp; [__A convolutional Neural Network analysis of a heat pipe with Hybrid Nano fluids__](https://doi.org/10.1080/01430750.2021.2014959 (2021))
+
+
 ## 🖥 My Contact Information
 
 &emsp;&emsp; 📫 __Email:__ __sivkhiran3@gmail.com__
