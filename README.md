@@ -95,7 +95,7 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 
 ## 📄 My Publications
 
-&emsp;&emsp; [__International Journal of Ambient Energy__]
+&emsp;&emsp; __International Journal of Ambient Energy__
 
 &emsp;&emsp;&emsp;&emsp; [__A convolutional Neural Network analysis of a heat pipe with Hybrid Nano fluids__](https://doi.org/10.1080/01430750.2021.2014959 (2021))
 
