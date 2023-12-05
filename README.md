@@ -119,6 +119,9 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 
 &emsp;&emsp; 📫 __Email:__ __sivkhiran3@gmail.com__
 
-&emsp;&emsp; 🖇 __LinkedIn:__ __https://www.linkedin.com/in/khiran-/__
+&emsp;&emsp; 🖇 [__LinkedIn__](https://www.linkedin.com/in/khiran-/)
+
+&emsp;&emsp;  🖇 [__Portfolio__](https://smoggy-march-ea5.notion.site/Khiran-Kumar-Chidambaram-Sivaraman-97b0bd74dc864f7e8b0edfae731d7278)
+
 
 ![](https://hit.yhype.me/github/profile?user_id=64971850)
