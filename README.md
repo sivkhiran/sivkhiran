@@ -49,11 +49,13 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 
 ## 🖥 My Work Experience 
 
+&emsp;&emsp;  __Data Analyst__| [__Civis Analytics__](https://www.civisanalytics.com/) [*August 2023 - Present*]
+
 &emsp;&emsp;  __Data Analyst__| [__Vanguard__](https://investor.vanguard.com/corporate-portal) [*March 2023 - July 2023*]
 
 &emsp;&emsp;  __Graduate Teaching Assistant__ | [__University Of Maryland Baltimore County__](https://umbc.edu/) [*June 2022 - September 2022*]
 
-&emsp;&emsp; __Quality Control Trainee/ Quality Test Engineer__ | [__HWASHIN Automotive India Private–Limited__](https://www.hwashin.co.kr/eng/group/india_summary.do?fcode=5) [*May 2018 - July 2018*]
+&emsp;&emsp; __Data Analyst__ | [__HWASHIN Automotive India Private–Limited__](https://www.hwashin.co.kr/eng/group/india_summary.do?fcode=5) [*June 2018 - Dec 2020*]
 
 ## 🖥 My Education 
 
