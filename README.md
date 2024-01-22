@@ -101,7 +101,7 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 
 ## 🖥 My Resume 
 
-&emsp;&emsp; 📄 [__Resume__](https://github.com/sivkhiran/Resume/blob/main/Khiran_Kumar_Resume.pdf)
+&emsp;&emsp; 📄 [__Resume__](https://github.com/sivkhiran/Resume/blob/main/Khiran-Kumar-Chidambaram-Sivaraman%20Resume.pdf)
 
 ##  My Publications
 
