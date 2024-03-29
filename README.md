@@ -49,7 +49,7 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 
 ## 🖥 My Work Experience 
 
-&emsp;&emsp;  __Data Analyst__| [__Radiance Technologies__) [*August 2023 - Present*]
+&emsp;&emsp;  __Data Analyst__| [__Radiance Technologies__](https://www.radiancetechllc.com/about-us) [*August 2023 - Present*]
 
 &emsp;&emsp;  __Data Analyst__| [__Vanguard__](https://investor.vanguard.com/corporate-portal) [*March 2023 - July 2023*]
 
