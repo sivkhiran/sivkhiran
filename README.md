@@ -49,9 +49,11 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 
 ## 🖥 My Work Experience 
 
-&emsp;&emsp;  __Data Analyst__| [__Radiance Technologies__](https://www.radiancetechllc.com/about-us) [*August 2023 - Present*]
+&emsp;&emsp;  __Data Analyst / Data Scientist__| [__Radiance Technologies__](https://www.radiancetechllc.com/about-us) [*August 2023 - Present*]
 
 &emsp;&emsp;  __Data Analyst__| [__Vanguard__](https://investor.vanguard.com/corporate-portal) [*March 2023 - July 2023*]
+
+&emsp;&emsp;  __Data Science Intern__| [__Radiance Technologies__](https://www.radiancetechllc.com/about-us) [*January 2022 - September 2022*]
 
 &emsp;&emsp;  __Graduate Teaching Assistant__ | [__University Of Maryland Baltimore County__](https://umbc.edu/) [*June 2022 - September 2022*]
 
@@ -99,9 +101,6 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 
 &emsp;&emsp; 🦸 __Team Work__
 
-## 🖥 My Resume 
-
-&emsp;&emsp; 📄 [__Resume__](https://github.com/sivkhiran/Resume/blob/main/Khiran_Resume.pdf)
 
 ##  My Publications
 
