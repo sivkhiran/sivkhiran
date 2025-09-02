@@ -49,6 +49,8 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 
 ## 🖥 My Work Experience 
 
+&emsp;&emsp;  __Graduate Research/Teaching Assistant__ | [__FAMU-FSU College of Engineering__](https://eng.famu.fsu.edu/) [*August 2025 - Present]
+
 &emsp;&emsp;  __Data Scientist / Data Analyst__| [__Radiance Technologies__](https://www.radiancetechllc.com/about-us) [*August 2023 - July 2025*]
 
 &emsp;&emsp;  __Data Analyst__| [__Vanguard__](https://investor.vanguard.com/corporate-portal) [*March 2023 - July 2023*]
@@ -59,7 +61,10 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 
 &emsp;&emsp; __Data Analyst__ | [__HWASHIN Automotive India Private–Limited__](https://www.hwashin.co.kr/eng/group/india_summary.do?fcode=5) [*June 2018 - Dec 2020*]
 
-## 🖥 My Education 
+## 🖥 My Education
+
+&emsp;&emsp; 🏫 [__FAMU-FSU College of Engineering__](https://eng.famu.fsu.edu/) - *PhD in Industrial Engineering*
+
 
 &emsp;&emsp; 🏫 [__University Of Maryland Baltimore County__](https://umbc.edu/) - *Masters in Data Science*
 
