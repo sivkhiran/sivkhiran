@@ -41,6 +41,8 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 
 ## 🖥 My Work Experience 
 
+&emsp;&emsp;  __Graduate Research/Teaching Assistant__ | [__FAMU-FSU College of Engineering__](https://eng.famu.fsu.edu/) [*August 2025 - Present*]
+
 &emsp;&emsp;  __Data Analyst__| [__Vanguard__](https://investor.vanguard.com/corporate-portal) [*March 2023 - July 2023*]
 
 &emsp;&emsp;  __Graduate Teaching Assistant__ | [__University Of Maryland Baltimore County__](https://umbc.edu/) [*June 2022 - September 2022*]
@@ -48,6 +50,8 @@ I warmly invite you to delve into my collection of machine learning and deep lea
 &emsp;&emsp; __Quality Control Trainee/ Quality Test Engineer__ | [__HWASHIN Automotive India Private–Limited__](https://www.hwashin.co.kr/eng/group/india_summary.do?fcode=5) [*May 2018 - July 2018*]
 
 ## 🖥 My Education 
+
+&emsp;&emsp; 🏫 [__FAMU-FSU College of Engineering__](https://eng.famu.fsu.edu/) - *PhD in Industrial Engineering*
 
 &emsp;&emsp; 🏫 [__University Of Maryland Baltimore County__](https://umbc.edu/) - *Masters in Data Science*
 
