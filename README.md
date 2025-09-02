@@ -7,7 +7,7 @@
 Embarking on a data-driven journey, I am a passionate Data Scientist and Machine Learning enthusiast. I hold a Masters Degree in Data Science at [__University of Maryland, Baltimore County__](https://umbc.edu/). My expertise lies in unraveling complex datasets and deriving meaningful insights to drive strategic decision-making.
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
-Starting at a young age, I acquired coding skills by initially learning the __Python__ language. Currently, I am expanding my knowledge by studying, which enhances my comprehension of machine learning and data science. Consequently, I have developed a strong grasp of coding principles. Additionally, I have furthered my expertise by gaining proficiency in other programming languages, including __R__, which are essential for pursuing a career as a __machine learning engineer__ or a __data scientist__.
+Starting  a young age, I acquired coding skills by initially learning the __Python__ language. Currently, I am expanding my knowledge by studying, which enhances my comprehension of machine learning and data science. Consequently, I have developed a strong grasp of coding principles. Additionally, I have furthered my expertise by gaining proficiency in other programming languages, including __R__, which are essential for pursuing a career as a __machine learning engineer__ or a __data scientist__.
 
 Throughout my experience in the field of data science and machine learning, I have acquired a comprehensive set of skills. These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning projects.
 
